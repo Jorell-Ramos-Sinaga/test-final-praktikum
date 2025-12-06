@@ -11,7 +11,8 @@
 
 ## Put your GNS3 Project file here!
 
-[File Project Final Praktikum](https://github.com/Praktikum-NETICS-2025/jarkom-modul-final-Jorell-Ramos-Sinaga/blob/main/Final%20Praktikum.gns3project)
+[File Project Final Praktikum](https://github.com/Jorell-Ramos-Sinaga/test-final-praktikum/blob/X-Komp-1/Final%20Praktikum.gns3project)
+
 <br>
 
 ## Soal 1
